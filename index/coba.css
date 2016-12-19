@@ -1,0 +1,27 @@
+h2
+{
+	color:blue;
+	font-size:20px;
+	
+}
+.menu
+{
+	color:red;
+}
+ 
+#menu_web
+{
+	background:green;
+	position: fixed;
+}
+
+body
+{
+
+	background-color:cyan;
+	background-image : url("2.jpg");
+	background-attachment : fixed;
+	background-position: right top; 
+//*/
+	background : cyan url("2.jpg") no-repeat right top; //*/
+}
